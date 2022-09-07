@@ -40,3 +40,19 @@ Lista de tarefas
   ![imagemTeste](https://user-images.githubusercontent.com/74271124/188996043-72603ef6-4383-47a3-a7a9-723cd1022545.png)
   
   [Acesse meu GitHub](https://github.com/Daimethys)
+
+---
+# Tabela
+
+Num | Nome | Idade
+---|---|---|
+1 | Patilda | 8 anos
+2 | Aioros | 7 anos
+3 | Morcego | 7 anos
+4 | Tenno | 7 anos
+
+---
+
+
+
+
